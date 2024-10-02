@@ -51,15 +51,15 @@
   "name": "Jolly Jolli",
   "title": "Software Developer",
   "socialLinks": {
-    "LinkedIn": "https://www.linkedin.com/404",
-    "GitHub": "https://github.com/jollyjolli",
-    "Portfolio": "https://www.formen.cc"
+    "linkedin": "https://www.linkedin.com/404",
+    "github": "https://github.com/jollyjolli",
+    "portfolio": "https://www.formen.cc"
   },
   "description": "Jolly is a passionate software developer with a love for continuous learning.",
   "studyLinks": {
-    "FreeCodeCamp": "https://www.freecodecamp.org",
-    "W3Schools": "https://www.w3schools.com",
-    "GitHub Docs": "https://docs.github.com"
+    "freeCodeCamp": "https://www.freecodecamp.org",
+    "w3Schools": "https://www.w3schools.com",
+    "gitHubDocs": "https://docs.github.com"
   },
   "updatedOn": "August 14, 2024"
   },
@@ -67,15 +67,31 @@
     "name": "Frank",
     "title": "Open Source Hobbyist",
     "socialLinks": {
-      "LinkedIn": "https://www.linkedin.com/404",
-      "GitHub": "https://github.com/hithere812",
-      "Portfolio": "https://github.com/hithere812"
+      "linkedin": "https://www.linkedin.com/404",
+      "github": "https://github.com/hithere812",
+      "portfolio": "https://github.com/hithere812"
     },
     "description": "Hi there! Frank here, I contribute to open source projects",
     "studyLinks": {
-      "FreeCodeCamp": "https://www.freecodecamp.org",
-      "W3Schools": "https://www.w3schools.com",
-      "GitHub Docs": "https://docs.github.com"
+      "freeCodeCamp": "https://www.freecodecamp.org",
+      "w3Schools": "https://www.w3schools.com",
+      "gitHubDocs": "https://docs.github.com"
+    },
+    "updatedOn": "August 15, 2024"
+  },
+  {
+    "name": "Jay",
+    "title": "Avid Learner",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/jayshukla8",
+      "github": "https://github.com/JayShukla8",
+      "portfolio": "https://http.cat/404"
+    },
+    "description": "Avid Learner rowing his boat through the vast Open Source",
+    "studyLinks": {
+      "freeCodeCamp": "https://www.freecodecamp.org",
+      "w3Schools": "https://www.w3schools.com",
+      "githubDocs": "https://docs.github.com"
     },
     "updatedOn": "August 15, 2024"
   }
